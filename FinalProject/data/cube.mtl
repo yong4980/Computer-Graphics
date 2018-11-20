@@ -1,0 +1,43 @@
+# cube.mtl
+
+newmtl front
+Ka 0.4000 0.4000 0.4000
+Kd 0.0000 0.2000 1.0000
+Ks 0.5000 0.5000 0.5000
+Ns 60.0000
+map_Kd grass_norm.tga
+
+newmtl back
+Ka 0.4000 0.4000 0.4000
+Kd 1.0000 0.2000 0.0000
+Ks 0.5000 0.5000 0.5000
+Ns 60.0000
+map_Kd grass_norm.tga
+
+newmtl top
+Ka 0.4000 0.4000 0.4000
+Kd 0.2000 1.0000 0.0000
+Ks 0.5000 0.5000 0.5000
+Ns 60.0000
+map_Kd grass_norm.tga
+
+newmtl bottom
+Ka 0.4000 0.4000 0.4000
+Kd 1.0000 1.0000 0.2000
+Ks 0.5000 0.5000 0.5000
+Ns 60.0000
+map_Kd grass_norm.tga
+
+newmtl left
+Ka 0.4000 0.4000 0.4000
+Kd 0.2000 1.0000 1.0000
+Ks 0.5000 0.5000 0.5000
+Ns 60.0000
+map_Kd grass_norm.tga
+
+newmtl right
+Ka 0.4000 0.4000 0.4000
+Kd 1.0000 0.2000 1.0000
+Ks 0.5000 0.5000 0.5000
+Ns 60.0000
+map_Kd grass_norm.tga

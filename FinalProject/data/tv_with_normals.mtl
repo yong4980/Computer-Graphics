@@ -1,0 +1,13 @@
+newmtl a
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+Ns 60.0000
+#black
+
+newmtl b
+Ka 0 0.199 0.398
+Kd 0 0.199 0.398
+Ks 0 0.199 0.398
+Ns 60.0000
+#navy
